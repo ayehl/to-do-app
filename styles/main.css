@@ -1,0 +1,23 @@
+
+h1 {
+  padding-left: .2rem;
+  color: #959286;
+  font-weight: lighter;
+  font-family: sans-serif;
+}
+
+body {
+  font-family: sans-serif;
+  margin: auto;
+}
+
+label {
+  padding-left: .5rem;
+  color: #959286;
+  font-size: 1.2rem;
+}
+
+button {
+  border-color: #BF982B;
+  color: #BF982B;
+}
